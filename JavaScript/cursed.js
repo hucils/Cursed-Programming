@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Every printed line is what JavaScript actually does.
 // Vibe coded, so some of the code may be weird.
-
+// Created on 27th October 2026
+// by Liliana Silvia Huci
 const two = {
     v: 2,
     [Symbol.toPrimitive](hint) {
